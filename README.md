@@ -33,10 +33,12 @@ My long-term vision:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dellyjifferson&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dellyjifferson&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dellyjifferson&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dellyjifferson&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🔥 Current Focus
