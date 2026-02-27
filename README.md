@@ -31,15 +31,7 @@ My long-term vision:
 
 ---
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dellyjifferson&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dellyjifferson&layout=compact&theme=tokyonight" />
-</p>
----
 
 ## 🔥 Current Focus
 
