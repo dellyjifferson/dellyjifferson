@@ -2,7 +2,7 @@
 <h3 align="center">Robotics • AI • Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Robotics+Engineer+in+Progress;AI+Developer;Embedded+Systems+Builder&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Entrepreneur;Robotics+Engineer+in+Progress;AI+Developer;Embedded+Systems+Builder&center=true&width=500&height=50">
 </p>
 
 ---
