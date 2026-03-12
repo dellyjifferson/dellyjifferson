@@ -38,7 +38,8 @@ My long-term vision:
 - Embedded Systems Engineering  
 - Robotics Projects  
 - Linux Environment Mastery  
-- AI System Development  
+- AI System Development
+- Computer Vision  
 
 ---
 
