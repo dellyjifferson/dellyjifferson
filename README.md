@@ -36,7 +36,8 @@ My long-term vision:
 
 ## 🔥 Current Focus
 
-- Embedded Systems Engineering  
+- Embedded Systems Engineering
+- Advanced Algorithms 
 - Robotics Projects  
 - Linux Environment Mastery  
 - AI System Development
