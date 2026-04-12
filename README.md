@@ -12,7 +12,7 @@
 🎓 Computer Science Student  
 🤖 Passionate about Robotics & AI  
 ⚡ Building Embedded Systems  
-🌍 Based in Haiti  
+🌍 Based in Port-au-Prince, Haiti  
 
 My long-term vision:  
 **Human–Machine Fusion (H-M)** — enhancing human capabilities through intelligent systems.
